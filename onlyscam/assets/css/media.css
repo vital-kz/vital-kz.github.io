@@ -9,10 +9,10 @@
     }
 
     p {
-        font-size: 32px;
+        font-size: 28px;
         display: block;
         position: absolute;
-        top: 75%;
+        top: 70%;
         left: 58%;
     }
 }
@@ -29,10 +29,10 @@
     }
 
     p {
-        font-size: 35px;
+        font-size: 30px;
         display: block;
         position: absolute;
-        top: 78%;
+        top: 70%;
         left: 58%;
     }
 }
