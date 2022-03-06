@@ -1,0 +1,1 @@
+# vital-kz.github.io
