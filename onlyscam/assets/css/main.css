@@ -1,0 +1,24 @@
+body {
+    overflow: hidden;
+}
+
+.background {
+    width: 100vw;
+    height: 100vh;
+    display: block;
+    position: relative;  
+}
+
+.views {
+    width: 75px;
+    height: 75px;
+}
+
+p {
+    display: block;
+    position: absolute;
+    top: 81%;
+    left: 61%;
+    text-align: center;
+    font-size: 40px;
+}
