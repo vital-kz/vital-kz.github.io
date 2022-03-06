@@ -1,0 +1,53 @@
+body {
+    overflow: hidden;
+}
+
+.background {
+    height: 100vh;
+    width: 100vw;
+    display: block;
+    position: relative;   
+}
+
+.views-ico {
+    width: 75px;
+    height: 75px;
+}
+
+h1 {
+    display: block;
+    position: absolute;
+    top: 81%;
+    left: 61%;
+    text-align: center;
+    font-size: 35px;
+}
+
+.lols {
+    width: 450px;
+    height: 220px;
+    display: block;
+    position: absolute;
+    justify-content: center;
+    bottom: 8%;
+    left: 50%;
+    float: right;
+    
+}
+
+.lox {
+    width: 570px;
+    height: 340px;
+    display: block;
+    position: absolute;
+    bottom: 15%;
+}
+
+.scam {
+    width: 700px;
+    height: 290px;
+    display: block;
+    position: absolute;
+    left: 40%;
+    bottom: 50%;
+}

@@ -1,0 +1,170 @@
+ @media only screen and (max-width: 375px) {
+   body {
+   overflow: hidden;
+   }
+
+    .background {
+    width: 375px !important;
+    height: 670px !important;
+ }
+ 
+ .views-ico {
+    width: 35px;
+    height: 35px;
+}
+
+ .lols {
+    width: 240px;
+    height: 150px;
+    left: 33%;
+    bottom: 9%;
+ }
+
+ .lox {
+    width: 270px;
+    height: 235px;
+    bottom: 175px;
+    right: 45%; 
+ } 
+
+ .scam {
+     width: 200px;
+     height: 120px;
+     bottom: 70%;
+     left: 40%;
+ }
+
+ h1 {
+    top: 85%;
+    left: 55%;
+    font-size: 30px;
+ }
+} 
+
+@media only screen and (max-width: 1280px) {
+ .lox {
+
+   right: 57%;
+}
+}
+
+@media only screen and (max-width: 1010px) {
+   .lox {
+     right: 50%;
+  }
+
+  .scam {
+     width: 600px;
+     height: 250px;
+  }
+  }
+
+  @media only screen and (max-width: 990px) {
+   .lox {
+     right: 50%;
+  }
+
+  .scam {
+     width: 600px;
+     height: 250px;
+     left: 37%;
+  }
+  }
+  
+  @media only screen and (max-width: 890px) {
+   .lox {
+     right: 50%;
+  }
+
+  .scam {
+     width: 500px;
+     height: 230px;
+     left: 37%;
+  }
+  .lols {
+     width: 400px;
+     height: 200px;
+     left: 45%;
+  }
+  }
+
+  @media only screen and (max-width: 780px) {
+   .lox {
+     right: 45%;
+  }
+
+  .scam {
+     width: 450px;
+     height: 200px;
+     left: 37%;
+  }
+  .lols {
+     width: 400px;
+     height: 200px;
+     left: 40%;
+  }
+  }
+
+  @media only screen and (max-width: 320px) {
+   .lox {
+      width: 250px;
+      height: 280px;
+      bottom: 8%;
+      right: 35%;
+   }
+
+   .scam {
+      width: 200px;
+      height: 180px;
+      bottom: 55%;
+      left: 45%;
+   }
+
+   .lols {
+      width: 210px;
+      height: 200px;
+      top: 73%;
+   }
+
+   h1 {
+      top: 100%;
+      left: 62%;
+   }
+  }
+
+  @media only screen and (max-width: 480px) {
+   .lox {
+      width: 250px;
+      height: 280px;
+      bottom: 15%;
+      right: 52%;
+   }
+
+   .scam {
+      width: 200px;
+      height: 180px;
+      bottom: 59%;
+      left: 45%;
+   }
+
+   .lols {
+      width: 210px;
+      height: 200px;
+      top: 56%;
+      left: 45%;
+   }
+
+   h1 {
+      top: 82%;
+      left: 60%;
+   }
+
+   .views-ico {
+      width: 50px;
+      height: 50px;
+   }
+  }
+
+  @media only screen and (max-width: 768px) {
+
+  }
